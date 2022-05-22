@@ -1,0 +1,9 @@
+D G "__PCB__" 0 0 ""5.025""
+D G "__DEVICE__" 0 0 ""
+D G "__DATE__" 0 0 ""20-may.-22""
+D G "__TIME__" 0 0 ""15:59:39""
+F G "Configurar_GPIO_C" 0 4 "void()" `34 
+C L "Configurar_GPIO_C" 0 0 2 "FUNCTION"
+C L "Configurar_GPIO_C" 0 0 1 "FUNCTION"
+C L "Configurar_GPIO_C" 0 0 1 "FUNCTION"
+C L "Configurar_GPIO_C" 0 0 1 "FUNCTION"

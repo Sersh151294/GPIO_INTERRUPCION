@@ -1,0 +1,24 @@
+*** Error 18 "GPIO.c" Line 1(9,24): File can not be opened
+    Not in local "lib\include.h"
+    Not in local "C:\Users\Lenovo\anaconda3\Lib\site-packages\numpy\distutils\mingw\lib\include.h"
+    Not in last "lib\include.h"
+    Not in project "C:\Users\Lenovo\Desktop\BIOMEDICA VIII SEMESTRE\MICROCONTROLADORES\GPIO_INTERRUPCION\GPIO\GPIO\lib\include.h"
+    Not in "C:\Program Files (x86)\PICC\Devices\lib/include.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\lib/include.h"
+*** Error 128 "GPIO.c" Line 1(9,16): A #DEVICE required before this line
+*** Error 12 "GPIO.c" Line 5(5,11): Undefined identifier   SYSCTL
+*** Error 12 "GPIO.c" Line 7(13,19): Undefined identifier   SYSCTL
+*** Error 12 "GPIO.c" Line 9(1,6): Undefined identifier   GPIOC
+*** Error 12 "GPIO.c" Line 10(1,6): Undefined identifier   GPIOC
+*** Error 12 "GPIO.c" Line 13(1,6): Undefined identifier   GPIOD
+*** Error 12 "GPIO.c" Line 14(1,6): Undefined identifier   GPIOC
+*** Error 12 "GPIO.c" Line 17(1,10): Undefined identifier   GPIOC_AHB
+*** Error 12 "GPIO.c" Line 20(1,6): Undefined identifier   GPIOC
+*** Error 12 "GPIO.c" Line 21(1,6): Undefined identifier   GPIOC
+*** Error 12 "GPIO.c" Line 22(1,6): Undefined identifier   GPIOC
+*** Error 12 "GPIO.c" Line 23(1,6): Undefined identifier   GPIOC
+*** Error 12 "GPIO.c" Line 24(1,6): Undefined identifier   GPIOC
+*** Error 12 "GPIO.c" Line 27(1,5): Undefined identifier   NVIC
+*** Error 12 "GPIO.c" Line 28(1,5): Undefined identifier   NVIC
+      16 Errors,  0 Warnings.
+Build Failed.
